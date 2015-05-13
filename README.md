@@ -24,10 +24,8 @@ backing block device (eg. /dev/sda1).
 
 On Debian (as root) :
 
-
-apt-get install make gcc e2fslibs-dev comerr-dev libblkid-dev
-
+    apt-get install make gcc e2fslibs-dev comerr-dev libblkid-dev
 
 ####Compilation
 
-make
+    make
